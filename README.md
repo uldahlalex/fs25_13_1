@@ -49,3 +49,5 @@ Now you must:
 Subscribe to a topic in your C# backend -> Save the data to DB when it arrives -> Broadcast the data to appropriate web clients in real-time using the ConnectionManager.
 
 I recommend making the final exercise (putting it all together) in a solution where you already have all the required boilerplate *(like the template_onion repository)*
+
+The fullstack2025 repository does use all steps from this exercise. (But can of course be achieved with much less code)
