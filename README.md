@@ -2,6 +2,8 @@
 
 **Remote repo for today's lesson: `https://github.com/uldahlalex/fs25_13_1`**
 
+Slides: `https://docs.google.com/presentation/d/1w789v8UQowBHclnFMfXybOh0j81kGC6gp3U_PMPyJy0/edit?usp=sharing`
+
 ![alt text](https://pbs.twimg.com/media/EyVg59uWgAIjRc5.jpg)
 # Topics
 - MQTT in .NET
